@@ -1,6 +1,6 @@
 # web__deployments-test
 
-## Things which I would like to do if I have more time
+## Things which should be added/changed
 ### Backend
 1. Unit/integration tests.
 2. Mongoose models relationships.
